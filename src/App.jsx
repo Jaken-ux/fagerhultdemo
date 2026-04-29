@@ -14,17 +14,9 @@ const OPTIONS = [
     bad: true,
   },
   {
-    id: 'standard',
-    tag: 'Fagerhult',
-    name: 'Standard',
-    desc: '140 lm/W · L70 · ingen styrning',
-    co2: 1411,
-    kwh: 21216,
-  },
-  {
     id: 'clo',
     tag: 'Fagerhult',
-    name: 'Konstant ljus',
+    name: 'Standard',
     desc: '140 lm/W · CLO · ingen styrning',
     co2: 1158,
     kwh: 15600,
